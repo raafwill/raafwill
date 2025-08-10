@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on my skills<br>🌱 I'm currenlty learning about Cloud Computing<br>🤝 I'm looking for help with learning new technologies<br>💬 Ask me about any Python and Django Solutions<br>📫 How to reach me? willianrafael68@gmail.com<br>⚡ Fun fact: I love rock and roll 
+# About Me:
+I'm currently working on my skills<br>I'm currenlty learning about Cloud Computing<br>I'm looking for help with learning new technologies<br>Ask me about any Python and Django Solutions<br>How to reach me? willianrafael68@gmail.com<br>Fun fact: I love rock and roll 
 
 
 ## 🌐 Socials:
